@@ -25,14 +25,13 @@ namespace Week4
                 Console.WriteLine(arr[i]);
                 //Sum of the elements of the array
                 int sum = 0;
-                for (int j = 0; j < n; j++)
+                for (int i = 0; i < n; i++)
                 {
-                    sum = sum + arr[j];
+                    sum = sum + arr[i];
                 }
                 while (j++ = n)
                 {
                     Console.WriteLine("Sum of the elements of the array is: " + sum);
-                    Console.WriteLine("Sum of the elements of the array is: " + sum)
 
                 }
             }
