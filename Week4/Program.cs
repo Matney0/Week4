@@ -29,7 +29,7 @@ namespace Week4
                 {
                     sum = sum + arr[i];
                 }
-                while (j++ = n)
+                while (i++ = n)
                 {
                     Console.WriteLine("Sum of the elements of the array is: " + sum);
 
